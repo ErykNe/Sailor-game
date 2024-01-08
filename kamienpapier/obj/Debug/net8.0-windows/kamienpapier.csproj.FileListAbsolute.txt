@@ -1,0 +1,17 @@
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\bin\Debug\net8.0-windows\kamienpapier.exe
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\bin\Debug\net8.0-windows\kamienpapier.deps.json
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\bin\Debug\net8.0-windows\kamienpapier.runtimeconfig.json
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\bin\Debug\net8.0-windows\kamienpapier.dll
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\bin\Debug\net8.0-windows\kamienpapier.pdb
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.Form1.resources
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.Properties.Resources.resources
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.csproj.GenerateResource.cache
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.AssemblyInfoInputs.cache
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.AssemblyInfo.cs
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.csproj.CoreCompileInputs.cache
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.dll
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\refint\kamienpapier.dll
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.pdb
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\kamienpapier.genruntimeconfig.cache
+C:\Users\Matura_1\source\repos\kamienpapier\kamienpapier\obj\Debug\net8.0-windows\ref\kamienpapier.dll
